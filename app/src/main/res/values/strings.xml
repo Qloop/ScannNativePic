@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScannNativePic</string>
+    <string name="scann">扫描本地图片</string>
+</resources>
